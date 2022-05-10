@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("idea集成git");
         System.out.println("idea集成git");
         System.out.println("idea集成git2");
+        System.out.println("hot-fix");
     }
 }
