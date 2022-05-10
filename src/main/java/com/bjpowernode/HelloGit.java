@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("hot-fix");
         System.out.println("test master");
         System.out.println("text hot-fix");
+        System.out.println("pull test");
     }
 }
